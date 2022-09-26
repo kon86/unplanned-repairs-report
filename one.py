@@ -3,5 +3,3 @@ name = 'Konstantin'
 print(name)
 print(age)
 
-
-
